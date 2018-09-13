@@ -2,4 +2,8 @@ Git is a version control system.
 git is free software.
 
 
-this is a master
+<<<<<<< HEAD
+create a new branch
+=======
+create a new branch
+>>>>>>> feature1
